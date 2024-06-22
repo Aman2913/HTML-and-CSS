@@ -5,3 +5,4 @@
 4. [Full-Screen-Navbar-Hover-Effect](https://github.com/Aman2913/HTML-and-CSS/tree/main/Full-Screen-Navbar-Hover-Effect)
 5. [Chess-Board](https://github.com/Aman2913/HTML-and-CSS/tree/main/Chess-Board)
 6. [Responsive-Calendar-UI-Design](https://github.com/Aman2913/HTML-and-CSS/tree/main/Responsive-Calendar-UI-Design)
+7. [Amazon-Landing-Page](https://github.com/Aman2913/HTML-and-CSS/tree/main/Amazon-Landing-Page)
